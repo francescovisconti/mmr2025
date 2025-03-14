@@ -54,7 +54,7 @@ After completing the module students will be able to:
 
 Successful completion of the first-year courses of the PhD in Politics.
 
-# Reference books
+# Reference book
 
 -   Seawright, J. (2016). *Multi-Method Social Science: Combining Qualitative and Quantitative Tools*. Cambridge University Press.
 
@@ -72,7 +72,7 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 [**Please come to class prepared to give a brief introduction of yourself and of your research project.**]{.underline}
 
-### Required readings:
+### Readings:
 
 -   Collier, D., & Elman, C. (2008). Qualitative and Multimethod Research. In *The Oxford Handbook of Political Methodology* (pp. 779-795). Oxford University Press.
 
@@ -82,23 +82,20 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 ### Examples:
 
-\- Larson, J. M., & Lewis, J. I. (2018). Rumors, Kinship Networks, and Rebel Group Formation. *International Organization*, 72(4), 871-903. <https://doi.org/10.1017/S0020818318000243>   
+-   Cremaschi, S., Bariletto, N., & De Vries, C. E. (2025). Without Roots: The Political Consequences of Collective Economic Shocks. *American Political Science Review*, 1–20.\
+    [https://doi.org10.1017/S0003055425000073](https://doi.org/10.1017/S0003055425000073)
 
-\- Lupu, N. (2014). Brand Dilution and the Breakdown of Political Parties in Latin America. *World Politics*, 66(4), 561-602. <https://doi.org/10.1017/S0043887114000197>
+<!-- -->
 
-### Suggested readings:
+-   Larson, J. M., & Lewis, J. I. (2018). Rumors, Kinship Networks, and Rebel Group Formation. *International Organization*, 72(4), 871-903. <https://doi.org/10.1017/S0020818318000243>   
 
--   Karen M. Staller, Ellen Block, and Pilar S. Horner. (2008). History of Methods in Social Science Research. In: Hesse-Biber, S. N., & Leavy, P. (Eds.). *Handbook of emergent methods*. Guilford Press. (Chapter 1)
-
--   Schram, S. F. (2007). “Political Science Research: From Theory to Practice “. *International Encyclopedia of Political Science*.
-
--   Fearon, J. D., & Laitin, D. D. (2008). Integrating qualitative and quantitative methods. In *The Oxford Handbook of Political Science*.
+-   Lupu, N. (2014). Brand Dilution and the Breakdown of Political Parties in Latin America. *World Politics*, 66(4), 561-602. <https://doi.org/10.1017/S0043887114000197>
 
 ## **Week 2**
 
 **The Logics of Quantitative and Qualitative Research**
 
-### Required readings:
+### Readings:
 
 -   Seawright, J. (2016). *Multi-Method Social Science: Combining Qualitative and Quantitative Tools* (Chapter 2). Cambridge University Press.
 
@@ -108,21 +105,11 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 -   Bartels, L. M. (2010). Some Unfulfilled Promises of Quantitative Imperialism. In H. E. Brady & D. Collier (Eds.), *Rethinking Social Inquiry: Diverse Tools, Shared Standards* (pp. 85-92). Rowman & Littlefield.
 
-### Suggested readings:
-
--   Ragin, C. (1984). *The Comparative Method: Moving Beyond Qualitative and Quantitative Strategies* (Chapters 1 and 2). University of California Press.
-
--   Brady, H. E. (2010). Doing Good and Doing Better: How Far Does the Quantitative Template Get Us? In H. E. Brady & D. Collier (Eds.), *Rethinking Social Inquiry: Diverse Tools, Shared Standards* (pp. 68-84). Rowman & Littlefield.
-
--   Freedman, D. A. (2010). On Types of Scientific Inquiry: The Role of Qualitative Reasoning. In H. E. Brady & D. Collier (Eds.), *Rethinking Social Inquiry: Diverse Tools, Shared Standards* (pp. 95-112). Rowman & Littlefield.
-
--   Guba, E. G., & Lincoln, Y. S. (1994). Competing Paradigms in Qualitative Research. In N. K. Denzin & Y. S. Lincoln (Eds.), *Handbook of Qualitative Research* (pp. 163-194). Sage.
-
 ## **Week 3**
 
 **Somewhere in between? Qualitative Comparative Analysis (QCA)**
 
-### Required readings:
+### Readings:
 
 -   Wagemann, C. (2017). Qualitative Comparative Analysis (QCA) and Set Theory. *Oxford Research Encyclopedia of Politics.* <https://doi.org/10.1093/acrefore/9780190228637.013.247>
 
@@ -133,12 +120,6 @@ Lectures followed by open discussions with students. Students will be engaged in
 -   Ragin, C. C. (2013). New Directions in the Logic of Social Inquiry. *Political Research Quarterly, 66*(1), 171-174. <https://doi.org/10.1177/1065912912468269>
 
 -   Mahoney, J. (2010). After KKV: The New Methodology of Qualitative Research. *World Politics, 62*(1), 120-147. <https://doi.org/10.1017/S0043887109990220>
-
-### Suggested readings:
-
--   Rihoux, B., & Ragin, C. C. (2009). *Configurational Comparative Methods: Qualitative Comparative Analysis (QCA) and Related Techniques.* Sage.
-
--   Schneider, C. Q., & Wagemann, C. (2012). *Set-Theoretic Methods for the Social Sciences.* Cambridge University Press.
 
 ### Examples:
 
@@ -151,11 +132,11 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 **The Logics of MMR**
 
-### Required readings:
-
--   Creswell, J. W., & Plano Clark, V. L. (2011). *Designing and Conducting Mixed Methods Research* (2nd ed., Chapters 1 & 2). Sage Publications.
+### Readings:
 
 -   Seawright, J. (2016). *Multi-Method Social Science: Combining Qualitative and Quantitative Tools* (Chapter 1). Cambridge University Press.
+
+-   Creswell, J. W., & Plano Clark, V. L. (2011). *Designing and Conducting Mixed Methods Research* (2nd ed., Chapters 1 & 2). Sage Publications.
 
 -   Laitin, D., & Fearon, J. (2008). Integrating Qualitative and Quantitative Methods. In *The Oxford Handbook of Political Methodology* (pp. 756-776). Oxford University Press.
 
@@ -191,16 +172,6 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 -   Collier, D. (2011). Understanding Process Tracing. *PS: Political Science & Politics, 44*(4), 823-830. <https://doi.org/10.1017/S1049096511001429>
 
-### Suggested readings:
-
--   Kiovu, K. L., & Hinze, A. M. (2017). Cases of Convenience? The Divergence of Theory from Practice in Case Selection in Qualitative and Mixed-Methods Research. *PS: Political Science & Politics, 50*(4), 1023-1027. <https://doi.org/10.1017/S1049096517001214>
-
--   Trampusch, C., & Palier, B. (2016). Between X and Y: How Process Tracing Contributes to Opening the Black Box of Causality. *New Political Economy, 21*(5), 437-454. <https://doi.org/10.1080/13563467.2015.1134465>
-
--   Gonzalez-Ocantos, E., & LaPorte, J. (2019). Process Tracing and the Problem of Missing Data. *Sociological Methods & Research.* <https://doi.org/10.1177/0049124119826153>
-
--   Capoccia, G., & Kelemen, R. D. (2007). The Study of Critical Junctures: Theory, Narrative, and Counterfactuals in Historical Institutionalism. *World Politics, 59*(3), 341-369. <https://doi.org/10.1017/S0043887100020852>
-
 ### Examples:
 
 -   Mattingly, D. (2016). Elite Capture: How Decentralization and Informal Institutions Weaken Property Rights in Rural China. *World Politics, 68*(3), 383-412. <https://doi.org/10.1017/s0043887116000083>
@@ -211,7 +182,7 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 **Regression Analysis in MMR**
 
-### Required readings:
+### Readings:
 
 -   Seawright, J. (2016). *Multi-Method Social Science: Combining Qualitative and Quantitative Tools* (Chapter 3). Cambridge University Press.
 
@@ -231,7 +202,7 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 **Fieldwork, Interviews, Ethnography in MMR**
 
-### Required readings:
+### Readings:
 
 -   Wood, E. J. (2007). Field Research. In C. Boix & S. Stokes (Eds.), *The Oxford Handbook of Comparative Politics* (pp. 123-146). Oxford University Press.
 
@@ -253,7 +224,7 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 **Experimental Evidence in MMR**
 
-### Required readings:
+### Readings:
 
 -   Seawright, J. (2016). *Multi-Method Social Science: Combining Qualitative and Quantitative Tools* (Chapter 7). Cambridge University Press.
 
@@ -275,7 +246,7 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 **Transparency and replicability of MMR**
 
-### Required readings
+### Readings
 
 -   Blair, G., Cooper, J., Coppock, A., & Humphreys, M. (2019). Declaring and Diagnosing Research Designs. *American Political Science Review, 113*(3), 838-859. <https://doi.org/10.1017/S0003055419000194>
 
@@ -293,7 +264,7 @@ Students will be expected to attend all the seminars and contribute to class dis
 
 ## *Class presentation*
 
-Each student will have to present to the class one scientific article listed among the examples of the second part of the course (week 6 to 9) and discuss the research design along with its strengths and weaknesses. The presentation will contribute to 25% of the final grade.
+Each student will have to present to the class at least one scientific article listed among the examples of the second part of the course (week 6 to 9) and discuss the research design along with its strengths and weaknesses. The presentation will contribute to 25% of the final grade.
 
 ## *Final paper*
 
@@ -301,4 +272,4 @@ This is the main requirement for the course (60% of the final grade). The paper 
 
 # Academic Honesty
 
-As stated in the university catalog, any student who commits an act of academic dishonesty will receive a failing grade on the work in which the dishonesty occurred. In addition, acts of academic dishonesty, irrespective of the weight of the assignment, may result in the student receiving a failing grade in the course. Instances of academic dishonesty will be reported to the Dean of Academic Affairs. A student who is reported twice for academic dishonesty is subject to summary dismissal from the University. In such a case, the Academic Council will then make a recommendation to the President, who will make the final decision.
+Any student who commits an act of academic dishonesty will receive a failing grade on the work in which the dishonesty occurred. In addition, acts of academic dishonesty, irrespective of the weight of the assignment, may result in the student receiving a failing grade in the course. Instances of academic dishonesty will be reported to the Director of the PhD program.
