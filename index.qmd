@@ -109,11 +109,11 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 -   [Bartels, L. M. (2010). Some Unfulfilled Promises of Quantitative Imperialism. In H. E. Brady & D. Collier (Eds.), *Rethinking Social Inquiry: Diverse Tools, Shared Standards* (pp. 85-92). Rowman & Littlefield.](https://luiss-my.sharepoint.com/:b:/g/personal/fvisconti_luiss_it/EQzlgj5uBfRDiKQW6HqbEEIBJUV5ZYGFOhiO7l3z5JLogQ?e=tbjSSQ)
 
-## **Week 3**
+## **Week 3 and 4**
 
 **Somewhere in between? Qualitative Comparative Analysis (QCA)**
 
-### [Slides Week 3](https://luiss-my.sharepoint.com/:b:/g/personal/fvisconti_luiss_it/EdsvSPKd8m9Onc8h9rkdGAEBfP3dHO20OkLDd2qUXU24oQ?e=tElokf "Slides Week 3")
+### [Slides Week ](https://luiss-my.sharepoint.com/:b:/g/personal/fvisconti_luiss_it/EdsvSPKd8m9Onc8h9rkdGAEBfP3dHO20OkLDd2qUXU24oQ?e=tElokf "Slides Week 3")[3](https://luiss-my.sharepoint.com/:b:/g/personal/fvisconti_luiss_it/EdsvSPKd8m9Onc8h9rkdGAEBfP3dHO20OkLDd2qUXU24oQ?e=tElokf "Slides Week 3-4")
 
 ### Readings:
 
@@ -134,33 +134,17 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 -   A searchable database of journal articles using QCA from various fields of research can be found at [COMPASSS](http://www.compasss.org/bibdata.htm).
 
-## **Week 4**
+## **Week 5**
 
-**The Logics of MMR**
+**The logic and design of MMR**
 
 ### Readings:
 
 -   Seawright, J. (2016). *Multi-Method Social Science: Combining Qualitative and Quantitative Tools* (Chapter 1). Cambridge University Press.
 
--   Creswell, J. W., & Plano Clark, V. L. (2011). *Designing and Conducting Mixed Methods Research* (2nd ed., Chapters 1 & 2). Sage Publications.
+-   Creswell, J. W., & Plano Clark, V. L. (2011). *Designing and Conducting Mixed Methods Research* (2nd ed., Chapters 1, 2, 3). Sage Publications.
 
--   Laitin, D., & Fearon, J. (2008). Integrating Qualitative and Quantitative Methods. In *The Oxford Handbook of Political Methodology* (pp. 756-776). Oxford University Press.
-
--   Tarrow, S. (2010). Bridging the Quantitative-Qualitative Divide. In H. E. Brady & D. Collier (Eds.), *Rethinking Social Inquiry: Diverse Tools, Shared Standards* (pp. 101-110). Rowman & Littlefield.
-
--   Creswell, J. W. (2011). Controversies in Mixed Methods Research. In N. K. Denzin & Y. Lincoln (Eds.), *The Sage Handbook of Qualitative Research* (pp. 269-284). Sage.
-
--   Harrits, G. S. (2011). More than Method? A Discussion of Paradigm Differences within Mixed Methods Research. *Journal of Mixed Methods Research, 5*(2), 150-166. <https://doi.org/10.1177/1558689811402506>
-
-## **Week 5**
-
-**Designing MMR**
-
-### Required readings:
-
--   Creswell, J. W., & Plano Clark, V. L. (2011). *Designing and Conducting Mixed Methods Research* (2nd ed., Chapters 3, 4, 6-8). Sage Publications.
-
--   Greene, J., Caracelli, V., & Graham, W. (1989). Toward a Conceptual Framework for Mixed-Method Evaluation Designs. *Educational Evaluation and Policy Analysis, 11*(3), 255-274. <https://doi.org/10.3102/01623737011003255>
+-   Maggetti, M. (2020). Mixed-methods designs. Handbuch Methoden der Politikwissenschaft, 193-210. [Available here](https://maggetti.org/wp-content/uploads/2020/06/Maggetti-Mixed-methods-designs.pdf).
 
 -   Small, M. L. (2011). How to Conduct a Mixed Methods Study: Recent Trends in a Rapidly Growing Literature. *Annual Review of Sociology, 37*, 57-86. <https://doi.org/10.1146/annurev.soc.012809.102657>
 
@@ -203,6 +187,9 @@ Lectures followed by open discussions with students. Students will be engaged in
 -   De Bruin, E. (2018). Preventing Coups D’état: How Counterbalancing Works. *Journal of Conflict Resolution, 62*(7), 1433-1458. [https://doi.org/10.1177/0022002717692652](#0)
 
 -   Wasow, O. (2020). Agenda Seeding: How 1960s Black Protests Moved Elites, Public Opinion, and Voting. *American Political Science Review, 114*(3), 638-659. <https://doi.org/10.1017/S000305542000009X>
+
+-   Cassani, A., Luppi, F., & Natalizia, G. (2016). Pathways of democratisation to human development in post‐communist countries. *European Journal of Political Research*, 55(3), 512-530.\
+    <https://doi.org/10.1111/1475-6765.12140>
 
 ## **Week 8**
 

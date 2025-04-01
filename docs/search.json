@@ -53,7 +53,7 @@
     "href": "index.html#week-5",
     "title": "Luiss Guido Carli | PhD in Politics | Mixed Methods",
     "section": "Week 5",
-    "text": "Week 5\nDesigning MMR\n\nRequired readings:\n\nCreswell, J. W., & Plano Clark, V. L. (2011). Designing and Conducting Mixed Methods Research (2nd ed., Chapters 3, 4, 6-8). Sage Publications.\nGreene, J., Caracelli, V., & Graham, W. (1989). Toward a Conceptual Framework for Mixed-Method Evaluation Designs. Educational Evaluation and Policy Analysis, 11(3), 255-274. https://doi.org/10.3102/01623737011003255\nSmall, M. L. (2011). How to Conduct a Mixed Methods Study: Recent Trends in a Rapidly Growing Literature. Annual Review of Sociology, 37, 57-86. https://doi.org/10.1146/annurev.soc.012809.102657\nSchoonenboom, J., & Johnson, R. B. (2017). How to construct a mixed methods research design. Kölner Zeitschrift für Soziologie und Sozialpsychologie, 69(2), 107-131. https://doi.org/10.1007/s11577-017-0454-1"
+    "text": "Week 5\nThe logic and design of MMR\n\nReadings:\n\nSeawright, J. (2016). Multi-Method Social Science: Combining Qualitative and Quantitative Tools (Chapter 1). Cambridge University Press.\nCreswell, J. W., & Plano Clark, V. L. (2011). Designing and Conducting Mixed Methods Research (2nd ed., Chapters 1, 2, 3). Sage Publications.\nMaggetti, M. (2020). Mixed-methods designs. Handbuch Methoden der Politikwissenschaft, 193-210. Available here.\nSmall, M. L. (2011). How to Conduct a Mixed Methods Study: Recent Trends in a Rapidly Growing Literature. Annual Review of Sociology, 37, 57-86. https://doi.org/10.1146/annurev.soc.012809.102657\nSchoonenboom, J., & Johnson, R. B. (2017). How to construct a mixed methods research design. Kölner Zeitschrift für Soziologie und Sozialpsychologie, 69(2), 107-131. https://doi.org/10.1007/s11577-017-0454-1"
   },
   {
     "objectID": "index.html#week-6",
@@ -67,7 +67,7 @@
     "href": "index.html#week-7",
     "title": "Luiss Guido Carli | PhD in Politics | Mixed Methods",
     "section": "Week 7",
-    "text": "Week 7\nRegression Analysis in MMR\n\nReadings:\n\nSeawright, J. (2016). Multi-Method Social Science: Combining Qualitative and Quantitative Tools (Chapter 3). Cambridge University Press.\nCoppedge, M. (1999). Thickening Thin Concepts and Theories: Combining Large-N and Small-N in Comparative Politics. Comparative Politics, 31(4), 465-476. https://doi.org/10.2307/422240\nLieberman, E. (2005). Nested Analysis as a Mixed-Method Strategy for Comparative Research. American Political Science Review, 99(3), 435-452. https://doi.org/10.1017/S0003055405051762\nAchen, C. H. (2005). Let’s Put Garbage-Can Regressions and Garbage-Can Probits Where They Belong. Conflict Management and Peace Science, 22(4), 327-339. https://doi.org/10.1080/07388940500339167\n\n\n\nExamples:\n\nDe Bruin, E. (2018). Preventing Coups D’état: How Counterbalancing Works. Journal of Conflict Resolution, 62(7), 1433-1458. https://doi.org/10.1177/0022002717692652\nWasow, O. (2020). Agenda Seeding: How 1960s Black Protests Moved Elites, Public Opinion, and Voting. American Political Science Review, 114(3), 638-659. https://doi.org/10.1017/S000305542000009X"
+    "text": "Week 7\nRegression Analysis in MMR\n\nReadings:\n\nSeawright, J. (2016). Multi-Method Social Science: Combining Qualitative and Quantitative Tools (Chapter 3). Cambridge University Press.\nCoppedge, M. (1999). Thickening Thin Concepts and Theories: Combining Large-N and Small-N in Comparative Politics. Comparative Politics, 31(4), 465-476. https://doi.org/10.2307/422240\nLieberman, E. (2005). Nested Analysis as a Mixed-Method Strategy for Comparative Research. American Political Science Review, 99(3), 435-452. https://doi.org/10.1017/S0003055405051762\nAchen, C. H. (2005). Let’s Put Garbage-Can Regressions and Garbage-Can Probits Where They Belong. Conflict Management and Peace Science, 22(4), 327-339. https://doi.org/10.1080/07388940500339167\n\n\n\nExamples:\n\nDe Bruin, E. (2018). Preventing Coups D’état: How Counterbalancing Works. Journal of Conflict Resolution, 62(7), 1433-1458. https://doi.org/10.1177/0022002717692652\nWasow, O. (2020). Agenda Seeding: How 1960s Black Protests Moved Elites, Public Opinion, and Voting. American Political Science Review, 114(3), 638-659. https://doi.org/10.1017/S000305542000009X\nCassani, A., Luppi, F., & Natalizia, G. (2016). Pathways of democratisation to human development in post‐communist countries. European Journal of Political Research, 55(3), 512-530.\nhttps://doi.org/10.1111/1475-6765.12140"
   },
   {
     "objectID": "index.html#week-8",
@@ -117,5 +117,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#week-3-and-4",
+    "href": "index.html#week-3-and-4",
+    "title": "Luiss Guido Carli | PhD in Politics | Mixed Methods",
+    "section": "Week 3 and 4",
+    "text": "Week 3 and 4\nSomewhere in between? Qualitative Comparative Analysis (QCA)\n\nSlides Week3\n\n\nReadings:\n\nWagemann, C. (2017). Qualitative Comparative Analysis (QCA) and Set Theory. Oxford Research Encyclopedia of Politics. https://doi.org/10.1093/acrefore/9780190228637.013.247\nOana, I. E., Schneider, C. Q., & Thomann, E. (2021). Qualitative Comparative Analysis Using R: A Beginner’s Guide. Cambridge University Press. Chapters: 1-4.\nMahoney, J., & Vanderpoel, R. S. (2015). Set Diagrams and Qualitative Research. Comparative Political Studies, 48(1), 65-100. https://doi.org/10.1177/0010414013519410\nRagin, C. C. (2013). New Directions in the Logic of Social Inquiry. Political Research Quarterly, 66(1), 171-174. https://doi.org/10.1177/1065912912468269\nMahoney, J. (2010). After KKV: The New Methodology of Qualitative Research. World Politics, 62(1), 120-147. https://doi.org/10.1017/S0043887109990220\n\n\n\nExamples:\n\nCebotari, V., & Vink, M. P. (2013). A configurational analysis of ethnic protest in Europe. International Journal of Comparative Sociology, 54(4), 298-324.\nhttps://doi.org/10.1177/0020715213508567\nA searchable database of journal articles using QCA from various fields of research can be found at COMPASSS."
   }
 ]
