@@ -144,6 +144,8 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 **The logic and design of MMR**
 
+### [Sides week 5](https://luiss-my.sharepoint.com/:u:/g/personal/fvisconti_luiss_it/EVJv-bb0hxBEg6E-p6BPO4wB4S7ompFafCJccQjCJmcdZg?e=TC9xdt "Slides week 5")
+
 ### Readings:
 
 -   Seawright, J. (2016). *Multi-Method Social Science: Combining Qualitative and Quantitative Tools* (Chapter 1). Cambridge University Press.
@@ -151,8 +153,6 @@ Lectures followed by open discussions with students. Students will be engaged in
 -   Creswell, J. W., & Plano Clark, V. L. (2011). *Designing and Conducting Mixed Methods Research* (2nd ed., Chapters 1, 2, 3). Sage Publications.
 
 -   Maggetti, M. (2020). Mixed-methods designs. Handbuch Methoden der Politikwissenschaft, 193-210. [Available here](https://maggetti.org/wp-content/uploads/2020/06/Maggetti-Mixed-methods-designs.pdf).
-
--   Small, M. L. (2011). How to Conduct a Mixed Methods Study: Recent Trends in a Rapidly Growing Literature. *Annual Review of Sociology, 37*, 57-86. <https://doi.org/10.1146/annurev.soc.012809.102657>
 
 -   Schoonenboom, J., & Johnson, R. B. (2017). How to construct a mixed methods research design. *Kölner Zeitschrift für Soziologie und Sozialpsychologie*, *69*(2), 107-131. <https://doi.org/10.1007/s11577-017-0454-1>
 
