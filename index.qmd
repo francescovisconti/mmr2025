@@ -101,7 +101,7 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 ### Readings
 
--   Seawright, J. (2016). *Multi-Method Social Science: Combining Qualitative and Quantitative Tools* (Chapter 2). Cambridge University Press.
+-   [Seawright, J. (2016). *Multi-Method Social Science: Combining Qualitative and Quantitative Tools* (Chapter 2). Cambridge University Press.](https://go.exlibris.link/m47rfDcZ)
 
 -   Mahoney, J. (2008). Toward a Unified Theory of Causality. *Comparative Political Studies, 41*(4-5), 412-436. <https://doi.org/10.1177/0010414007313115>
 
@@ -119,7 +119,7 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 -   Wagemann, C. (2017). Qualitative Comparative Analysis (QCA) and Set Theory. *Oxford Research Encyclopedia of Politics.* <https://doi.org/10.1093/acrefore/9780190228637.013.247>
 
--   Oana, I. E., Schneider, C. Q., & Thomann, E. (2021). *Qualitative Comparative Analysis Using R: A Beginner's Guide.* Cambridge University Press. Chapters: 1-4.
+-   [Oana, I. E., Schneider, C. Q., & Thomann, E. (2021). *Qualitative Comparative Analysis Using R: A Beginner's Guide.* Cambridge University Press. Chapters: 1-4.](https://go.exlibris.link/jHgBy7Bv)
 
 -   Mahoney, J., & Vanderpoel, R. S. (2015). Set Diagrams and Qualitative Research. *Comparative Political Studies, 48*(1), 65-100. <https://doi.org/10.1177/0010414013519410>
 
@@ -148,9 +148,9 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 ### Readings:
 
--   Seawright, J. (2016). *Multi-Method Social Science: Combining Qualitative and Quantitative Tools* (Chapter 1). Cambridge University Press.
+-   [Seawright, J. (2016). *Multi-Method Social Science: Combining Qualitative and Quantitative Tools* (Chapter 1). Cambridge University Press.](https://go.exlibris.link/m47rfDcZ)
 
--   Creswell, J. W., & Plano Clark, V. L. (2011). *Designing and Conducting Mixed Methods Research* (2nd ed., Chapters 1, 2, 3). Sage Publications.
+-   [Creswell, J. W., & Plano Clark, V. L. (2011). *Designing and Conducting Mixed Methods Research* (2nd ed., Chapters 1, 2, 3). Sage Publications.](https://luiss-my.sharepoint.com/:b:/g/personal/fvisconti_luiss_it/ERF-QAwZpshBlKn6s5sfjQcBGq1dytup-z4vAxrx008ioQ?e=F6WsET)
 
 -   Maggetti, M. (2020). Mixed-methods designs. Handbuch Methoden der Politikwissenschaft, 193-210. [Available here](https://maggetti.org/wp-content/uploads/2020/06/Maggetti-Mixed-methods-designs.pdf).
 
@@ -164,9 +164,9 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 ### Required readings:
 
--   Gerring, J. (2006). What is a Case Study and What is a Case Study Good For? In *Case Study Research: Principles and Practices* (pp. 17-64). Cambridge University Press.
+-   [Gerring, J. (2006). What is a Case Study and What is a Case Study Good For? In *Case Study Research: Principles and Practices* (pp. 17-64). Cambridge University Press.](https://go.exlibris.link/v5QhSXCP)
 
--   Seawright, J. (2016). *Multi-Method Social Science: Combining Qualitative and Quantitative Tools* (Chapter 8). Cambridge University Press.
+-   [Seawright, J. (2016). *Multi-Method Social Science: Combining Qualitative and Quantitative Tools* (Chapter 8). Cambridge University Press.](https://go.exlibris.link/m47rfDcZ)
 
 -   Collier, D. (2011). Understanding Process Tracing. *PS: Political Science & Politics, 44*(4), 823-830. <https://doi.org/10.1017/S1049096511001429>
 
@@ -182,7 +182,7 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 ### Readings:
 
--   Seawright, J. (2016). *Multi-Method Social Science: Combining Qualitative and Quantitative Tools* (Chapter 3). Cambridge University Press.
+-   [Seawright, J. (2016). *Multi-Method Social Science: Combining Qualitative and Quantitative Tools* (Chapter 3). Cambridge University Press.](https://go.exlibris.link/m47rfDcZ)
 
 -   Coppedge, M. (1999). Thickening Thin Concepts and Theories: Combining Large-N and Small-N in Comparative Politics. *Comparative Politics, 31*(4), 465-476. <https://doi.org/10.2307/422240>
 
@@ -192,7 +192,7 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 ### Examples:
 
--   De Bruin, E. (2018). Preventing Coups D’état: How Counterbalancing Works. *Journal of Conflict Resolution, 62*(7), 1433-1458. [https://doi.org/10.1177/0022002717692652](#0)
+-   De Bruin, E. (2018). Preventing Coups D’état: How Counterbalancing Works. *Journal of Conflict Resolution, 62*(7), 1433-1458. <https://doi.org/10.1177/0022002717692652>
 
 -   Wasow, O. (2020). Agenda Seeding: How 1960s Black Protests Moved Elites, Public Opinion, and Voting. *American Political Science Review, 114*(3), 638-659. <https://doi.org/10.1017/S000305542000009X>
 
@@ -205,15 +205,15 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 ### Readings:
 
--   Wood, E. J. (2007). Field Research. In C. Boix & S. Stokes (Eds.), *The Oxford Handbook of Comparative Politics* (pp. 123-146). Oxford University Press.
+-   [Wood, E. J. (2007). Field Research. In C. Boix & S. Stokes (Eds.), *The Oxford Handbook of Comparative Politics* (pp. 123-146). Oxford University Press.](https://go.exlibris.link/dcrkHX5L)
 
--   Kapiszewski, D., & MacLean, L. M. (2015). Interviews, Focus Groups, and Oral Histories. In *Field Research in Political Science* (pp. 190-233). Cambridge University Press.
+-   [Kapiszewski, D., & MacLean, L. M. (2015). Interviews, Focus Groups, and Oral Histories. In *Field Research in Political Science* (pp. 190-233). Cambridge University Press.](https://go.exlibris.link/Pqhk30p3)
 
--   Fujii, L. A. (2018). *Interviewing in Social Science Research: A Relational Approach* (Chapter 1). Routledge.
+-   [Fujii, L. A. (2018). *Interviewing in Social Science Research: A Relational Approach* (Chapter 1). Routledge.](https://luiss-my.sharepoint.com/:b:/g/personal/fvisconti_luiss_it/EVwgG28I59xOm8RWOOnuSRoBjxSdCDcR-JgnJ8UT6JTe4w?e=36sR9P)
 
 -   Boswell, J., Corbett, J., Dommett, K., Jennings, W., Flinders, M., Rhodes, R. A. W., & Wood, M. (2019). State of the Field: What Can Political Ethnography Tell Us About Anti-Politics and Democratic Disaffection? *European Journal of Political Research, 58*(1), 56-71. <https://doi.org/10.1111/1475-6765.12270>
 
--   Creswell, J. W., Hanson, W. E., & Morales, A. (2006). How Interpretive Qualitative Research Extends Mixed Methods Research. *Research in the Schools, 13*(1), 1-11.
+-   [Creswell, J. W., Hanson, W. E., & Morales, A. (2006). How Interpretive Qualitative Research Extends Mixed Methods Research. *Research in the Schools, 13*(1), 1-11.](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=97d962208ddefbf01b3de936446c0ee20381df10)
 
 ### Examples:
 
@@ -227,9 +227,9 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 ### Readings:
 
--   Seawright, J. (2016). *Multi-Method Social Science: Combining Qualitative and Quantitative Tools* (Chapter 7). Cambridge University Press.
+-   [Seawright, J. (2016). *Multi-Method Social Science: Combining Qualitative and Quantitative Tools* (Chapter 7). Cambridge University Press.](https://go.exlibris.link/m47rfDcZ)
 
--   Dunning, T. (2012). *Natural Experiments in the Social Sciences: A Design-Based Approach* (Chapters 1 and 11). Cambridge University Press.
+-   [Dunning, T. (2012). *Natural Experiments in the Social Sciences: A Design-Based Approach* (Chapters 1 and 11). Cambridge University Press.](https://luiss-my.sharepoint.com/:b:/g/personal/fvisconti_luiss_it/ERbWgVO8wpJCp_WZzsDyorUBg98yRFO8YpZ3N_hl4TvvTA?e=VBq8Ig)
 
 -   Paluck, E. L. (2010). The Promising Integration of Field Experimentation and Qualitative Methods. *Annals of the American Academy of Political and Social Science, 628*, 59-71. <https://doi.org/10.1177/0002716209351510>
 
