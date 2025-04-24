@@ -180,6 +180,8 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 **Regression Analysis in MMR**
 
+### [Slides week 7](https://luiss-my.sharepoint.com/:b:/g/personal/fvisconti_luiss_it/Eb68Yqgq8vpGoHFRwDnqkmIBChvtajS-6Ilv5zdQesG1KA?e=dCCWFx)
+
 ### Readings:
 
 -   [Seawright, J. (2016). *Multi-Method Social Science: Combining Qualitative and Quantitative Tools* (Chapter 3). Cambridge University Press.](https://go.exlibris.link/m47rfDcZ)
