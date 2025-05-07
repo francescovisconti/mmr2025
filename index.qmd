@@ -251,7 +251,9 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 ## **Week 10**
 
-**Transparency and replicability of MMR**
+**Transparency and evaluation of MMR**
+
+### [Slides week 10](https://luiss-my.sharepoint.com/:b:/g/personal/fvisconti_luiss_it/EUhYlTlzzBVKkKz4ZQ_JrWgBsu8C-USfTf5gSkWC7BhxLg?e=Izr8g4)
 
 ### Readings
 
